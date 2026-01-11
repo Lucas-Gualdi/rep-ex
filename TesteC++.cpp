@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 
-	int a,b;
+	int a;
 	
 	//leitura do primeiro caractere da soma
 	printf("Digite o primeiro valor a ser adicionado na soma:\n");
@@ -21,5 +21,4 @@ int main(){
 	}
 	
 	printf("Resultado da soma: %d", soma);
-	
 }
