@@ -2,5 +2,5 @@
 Teste
 
 Primeiro arquivo criado como TESTE.
-LOL
+
 
